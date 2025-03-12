@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8672EDFD-A3EC-4CEC-A614-D5D86B8970CE}|ParlemValencia.Infrastructure\\ParlemValencia.Infrastructure.csproj|c:\\users\\azael\\desktop\\proyectosvisual\\parlemvalencia\\parlemvalencia.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8672EDFD-A3EC-4CEC-A614-D5D86B8970CE}|ParlemValencia.Infrastructure\\ParlemValencia.Infrastructure.csproj|solutionrelative:parlemvalencia.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2B31251-C0F0-4973-B180-A1D8F46BDE62}|ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj|c:\\users\\azael\\desktop\\proyectosvisual\\parlemvalencia\\parlemvalencia.infrastructure.repository\\repositorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B31251-C0F0-4973-B180-A1D8F46BDE62}|ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj|solutionrelative:parlemvalencia.infrastructure.repository\\repositorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B31251-C0F0-4973-B180-A1D8F46BDE62}|ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj|c:\\users\\azael\\desktop\\proyectosvisual\\parlemvalencia\\parlemvalencia.infrastructure.repository\\repositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B31251-C0F0-4973-B180-A1D8F46BDE62}|ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj|solutionrelative:parlemvalencia.infrastructure.repository\\repositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F02AAAF-EE19-42B6-8414-BFEAAF6E79C2}|ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj|c:\\users\\azael\\desktop\\proyectosvisual\\parlemvalencia\\parlemvalencia.infrastructure.interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F02AAAF-EE19-42B6-8414-BFEAAF6E79C2}|ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj|solutionrelative:parlemvalencia.infrastructure.interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F02AAAF-EE19-42B6-8414-BFEAAF6E79C2}|ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj|c:\\users\\azael\\desktop\\proyectosvisual\\parlemvalencia\\parlemvalencia.infrastructure.interfaces\\irepositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F02AAAF-EE19-42B6-8414-BFEAAF6E79C2}|ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj|solutionrelative:parlemvalencia.infrastructure.interfaces\\irepositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 293,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IData.cs",
+              "DocumentMoniker": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\IData.cs",
+              "RelativeDocumentMoniker": "ParlemValencia.Infrastructure.Interfaces\\IData.cs",
+              "ToolTip": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\IData.cs",
+              "RelativeToolTip": "ParlemValencia.Infrastructure.Interfaces\\IData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:00:14.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\RepositoryClientes.cs",
+              "RelativeDocumentMoniker": "ParlemValencia.Infrastructure.Repository\\RepositoryClientes.cs",
+              "ToolTip": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\RepositoryClientes.cs",
+              "RelativeToolTip": "ParlemValencia.Infrastructure.Repository\\RepositoryClientes.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:56:28.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositoryClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\IRepositoryClientes.cs",
+              "RelativeDocumentMoniker": "ParlemValencia.Infrastructure.Interfaces\\IRepositoryClientes.cs",
+              "ToolTip": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\IRepositoryClientes.cs",
+              "RelativeToolTip": "ParlemValencia.Infrastructure.Interfaces\\IRepositoryClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:55:18.625Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -23,14 +74,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "ParlemValencia.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "ParlemValencia.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RepositoryData.cs",
+              "DocumentMoniker": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\RepositoryData.cs",
+              "RelativeDocumentMoniker": "ParlemValencia.Infrastructure.Repository\\RepositoryData.cs",
+              "ToolTip": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\RepositoryData.cs",
+              "RelativeToolTip": "ParlemValencia.Infrastructure.Repository\\RepositoryData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:42:41.985Z",
+              "WhenOpened": "2025-03-12T16:51:49.378Z",
               "EditorCaption": ""
             }
           ]
