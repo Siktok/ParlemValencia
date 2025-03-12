@@ -1,0 +1,11 @@
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\bin\Debug\net8.0\ParlemValencia.Business.Entity.deps.json
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\bin\Debug\net8.0\ParlemValencia.Business.Entity.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\bin\Debug\net8.0\ParlemValencia.Business.Entity.pdb
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\obj\Debug\net8.0\ParlemValencia.Business.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\obj\Debug\net8.0\ParlemValencia.Business.Entity.AssemblyInfoInputs.cache
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\obj\Debug\net8.0\ParlemValencia.Business.Entity.AssemblyInfo.cs
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\obj\Debug\net8.0\ParlemValencia.Business.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\obj\Debug\net8.0\ParlemValencia.Business.Entity.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\obj\Debug\net8.0\refint\ParlemValencia.Business.Entity.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\obj\Debug\net8.0\ParlemValencia.Business.Entity.pdb
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Entity\obj\Debug\net8.0\ref\ParlemValencia.Business.Entity.dll

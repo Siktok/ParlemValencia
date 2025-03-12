@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{C2B31251-C0F0-4973-B180-A1D8F46BDE62}|ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj|solutionrelative:parlemvalencia.infrastructure.repository\\repositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B31251-C0F0-4973-B180-A1D8F46BDE62}|ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj|c:\\users\\azael\\desktop\\proyectosvisual\\parlemvalencia\\parlemvalencia.infrastructure.repository\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B31251-C0F0-4973-B180-A1D8F46BDE62}|ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj|solutionrelative:parlemvalencia.infrastructure.repository\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F02AAAF-EE19-42B6-8414-BFEAAF6E79C2}|ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj|c:\\users\\azael\\desktop\\proyectosvisual\\parlemvalencia\\parlemvalencia.infrastructure.interfaces\\irepositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F02AAAF-EE19-42B6-8414-BFEAAF6E79C2}|ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj|solutionrelative:parlemvalencia.infrastructure.interfaces\\irepositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F02AAAF-EE19-42B6-8414-BFEAAF6E79C2}|ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj|c:\\users\\azael\\desktop\\proyectosvisual\\parlemvalencia\\parlemvalencia.infrastructure.interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F02AAAF-EE19-42B6-8414-BFEAAF6E79C2}|ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj|solutionrelative:parlemvalencia.infrastructure.interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7206C729-89C2-41FF-A4F2-BE3B2BB838E2}|ParlemValencia.Business.Core\\ParlemValencia.Business.Core.csproj|c:\\users\\azael\\desktop\\proyectosvisual\\parlemvalencia\\parlemvalencia.business.core\\clientecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7206C729-89C2-41FF-A4F2-BE3B2BB838E2}|ParlemValencia.Business.Core\\ParlemValencia.Business.Core.csproj|solutionrelative:parlemvalencia.business.core\\clientecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 293,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IData.cs",
-              "DocumentMoniker": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\IData.cs",
-              "RelativeDocumentMoniker": "ParlemValencia.Infrastructure.Interfaces\\IData.cs",
-              "ToolTip": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\IData.cs",
-              "RelativeToolTip": "ParlemValencia.Infrastructure.Interfaces\\IData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:00:14.255Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -49,40 +28,27 @@
               "RelativeDocumentMoniker": "ParlemValencia.Infrastructure.Repository\\RepositoryClientes.cs",
               "ToolTip": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\RepositoryClientes.cs",
               "RelativeToolTip": "ParlemValencia.Infrastructure.Repository\\RepositoryClientes.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:56:28.513Z",
+              "WhenOpened": "2025-03-12T17:37:58.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepositoryClientes.cs",
-              "DocumentMoniker": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\IRepositoryClientes.cs",
-              "RelativeDocumentMoniker": "ParlemValencia.Infrastructure.Interfaces\\IRepositoryClientes.cs",
-              "ToolTip": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\IRepositoryClientes.cs",
-              "RelativeToolTip": "ParlemValencia.Infrastructure.Interfaces\\IRepositoryClientes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ClienteCore.cs",
+              "DocumentMoniker": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Core\\ClienteCore.cs",
+              "RelativeDocumentMoniker": "ParlemValencia.Business.Core\\ClienteCore.cs",
+              "ToolTip": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Core\\ClienteCore.cs",
+              "RelativeToolTip": "ParlemValencia.Business.Core\\ClienteCore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:55:18.625Z",
+              "WhenOpened": "2025-03-12T17:32:33.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\Data.cs",
-              "RelativeDocumentMoniker": "ParlemValencia.Infrastructure.Repository\\Data.cs",
-              "ToolTip": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\Data.cs",
-              "RelativeToolTip": "ParlemValencia.Infrastructure.Repository\\Data.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:51:49.378Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -39,11 +39,11 @@ namespace ParlemValencia.Infrastructure.Repository
 
                     Id = random.Next(100000, 999999),
                     DocType = "nif",
-                    DocNum = "",
-                    Email = "",
+                    DocNum = " ",
+                    Email = " ",
                     CustomerId = random.Next(10000, 99999).ToString(),
-                    GivenName = "",
-                    FamilyName1 = "",
+                    GivenName = " ",
+                    FamilyName1 = " ",
                     Phone = $"{random.Next(600000000, 699999999)}"
                 };
 

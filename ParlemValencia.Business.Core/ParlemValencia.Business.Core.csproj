@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ParlemValencia.Business.Entity\ParlemValencia.Business.Entity.csproj" />
+    <ProjectReference Include="..\ParlemValencia.Business.Interfaces\ParlemValencia.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\ParlemValencia.Infrastructure.Repository\ParlemValencia.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
