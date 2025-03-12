@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ParlemValencia.Services.WebApi.props" />
+</Project>

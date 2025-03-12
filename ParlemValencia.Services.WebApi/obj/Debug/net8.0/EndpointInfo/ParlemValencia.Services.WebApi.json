@@ -1,0 +1,40 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Web Api Parlem Valenciá",
+    "description": "WebApi para Parlem Telecom",
+    "contact": {
+      "name": "Azael Llanos",
+      "url": "https://www.linkedin.com/in/azael-llanos-gonzalez/",
+      "email": "azael1992sp@gmail.com"
+    },
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Clientes/GetAll": {
+      "get": {
+        "tags": [
+          "Clientes"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Clientes/Insert": {
+      "post": {
+        "tags": [
+          "Clientes"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

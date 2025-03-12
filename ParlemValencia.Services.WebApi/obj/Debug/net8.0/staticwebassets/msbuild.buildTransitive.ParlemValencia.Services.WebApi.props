@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ParlemValencia.Services.WebApi.props" />
+</Project>

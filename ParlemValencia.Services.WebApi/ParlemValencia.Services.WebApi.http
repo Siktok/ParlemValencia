@@ -1,0 +1,6 @@
+@ParlemValencia.Services.WebApi_HostAddress = http://localhost:5089
+
+GET {{ParlemValencia.Services.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

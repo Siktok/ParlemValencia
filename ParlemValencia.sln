@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParlemValencia.Business.Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParlemValencia.Business.Core", "ParlemValencia.Business.Core\ParlemValencia.Business.Core.csproj", "{7206C729-89C2-41FF-A4F2-BE3B2BB838E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParlemValencia.Services.WebApi", "ParlemValencia.Services.WebApi\ParlemValencia.Services.WebApi.csproj", "{0493E18E-D0F7-4EC9-B8A3-F957FAB3AA48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7206C729-89C2-41FF-A4F2-BE3B2BB838E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7206C729-89C2-41FF-A4F2-BE3B2BB838E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7206C729-89C2-41FF-A4F2-BE3B2BB838E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0493E18E-D0F7-4EC9-B8A3-F957FAB3AA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0493E18E-D0F7-4EC9-B8A3-F957FAB3AA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0493E18E-D0F7-4EC9-B8A3-F957FAB3AA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0493E18E-D0F7-4EC9-B8A3-F957FAB3AA48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,5 +61,6 @@ Global
 		{DE54E505-99A1-4C08-9E7B-852CDEA085A8} = {996B79D1-6C8E-453F-8EAF-6ABD98F15EE0}
 		{ABE0F117-EFF4-4905-914F-38FFD3BF1EEA} = {996B79D1-6C8E-453F-8EAF-6ABD98F15EE0}
 		{7206C729-89C2-41FF-A4F2-BE3B2BB838E2} = {996B79D1-6C8E-453F-8EAF-6ABD98F15EE0}
+		{0493E18E-D0F7-4EC9-B8A3-F957FAB3AA48} = {B9CC4BDE-680F-4A33-ABED-80A0F73ECC01}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ParlemValencia.Infrastructure.Repository/1.0.0": {
+        "dependencies": {
+          "ParlemValencia.Business.Entity": "1.0.0",
+          "ParlemValencia.Infrastructure.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "ParlemValencia.Infrastructure.Repository.dll": {}
+        }
+      },
+      "ParlemValencia.Business.Entity/1.0.0": {
+        "runtime": {
+          "ParlemValencia.Business.Entity.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ParlemValencia.Infrastructure.Interfaces/1.0.0": {
+        "dependencies": {
+          "ParlemValencia.Business.Entity": "1.0.0"
+        },
+        "runtime": {
+          "ParlemValencia.Infrastructure.Interfaces.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParlemValencia.Infrastructure.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParlemValencia.Business.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParlemValencia.Infrastructure.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Services.WebApi\\ParlemValencia.Services.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Core\\ParlemValencia.Business.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Core\\ParlemValencia.Business.Core.csproj",
+        "projectName": "ParlemValencia.Business.Core",
+        "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Core\\ParlemValencia.Business.Core.csproj",
+        "packagesPath": "C:\\Users\\Azael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Azael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj"
+              },
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Interfaces\\ParlemValencia.Business.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Interfaces\\ParlemValencia.Business.Interfaces.csproj"
+              },
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj",
+        "projectName": "ParlemValencia.Business.Entity",
+        "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj",
+        "packagesPath": "C:\\Users\\Azael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Azael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Interfaces\\ParlemValencia.Business.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Interfaces\\ParlemValencia.Business.Interfaces.csproj",
+        "projectName": "ParlemValencia.Business.Interfaces",
+        "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Interfaces\\ParlemValencia.Business.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Azael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Azael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj",
+        "projectName": "ParlemValencia.Infrastructure.Interfaces",
+        "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Azael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Azael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj",
+        "projectName": "ParlemValencia.Infrastructure.Repository",
+        "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\Azael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Azael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Entity\\ParlemValencia.Business.Entity.csproj"
+              },
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Services.WebApi\\ParlemValencia.Services.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Services.WebApi\\ParlemValencia.Services.WebApi.csproj",
+        "projectName": "ParlemValencia.Services.WebApi",
+        "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Services.WebApi\\ParlemValencia.Services.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Azael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Services.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Azael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Core\\ParlemValencia.Business.Core.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Core\\ParlemValencia.Business.Core.csproj"
+              },
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Interfaces\\ParlemValencia.Business.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Business.Interfaces\\ParlemValencia.Business.Interfaces.csproj"
+              },
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Interfaces\\ParlemValencia.Infrastructure.Interfaces.csproj"
+              },
+              "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj": {
+                "projectPath": "C:\\Users\\Azael\\Desktop\\ProyectosVisual\\ParlemValencia\\ParlemValencia.Infrastructure.Repository\\ParlemValencia.Infrastructure.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

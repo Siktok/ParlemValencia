@@ -1,0 +1,17 @@
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\bin\Debug\net8.0\ParlemValencia.Infrastructure.Repository.deps.json
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\bin\Debug\net8.0\ParlemValencia.Infrastructure.Repository.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\bin\Debug\net8.0\ParlemValencia.Infrastructure.Repository.pdb
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\bin\Debug\net8.0\ParlemValencia.Business.Entity.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\bin\Debug\net8.0\ParlemValencia.Infrastructure.Interfaces.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\bin\Debug\net8.0\ParlemValencia.Business.Entity.pdb
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\bin\Debug\net8.0\ParlemValencia.Infrastructure.Interfaces.pdb
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\obj\Debug\net8.0\ParlemValencia.Infrastructure.Repository.csproj.AssemblyReference.cache
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\obj\Debug\net8.0\ParlemValencia.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\obj\Debug\net8.0\ParlemValencia.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\obj\Debug\net8.0\ParlemValencia.Infrastructure.Repository.AssemblyInfo.cs
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\obj\Debug\net8.0\ParlemValencia.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\obj\Debug\net8.0\ParlemVa.BC56432C.Up2Date
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\obj\Debug\net8.0\ParlemValencia.Infrastructure.Repository.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\obj\Debug\net8.0\refint\ParlemValencia.Infrastructure.Repository.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\obj\Debug\net8.0\ParlemValencia.Infrastructure.Repository.pdb
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Infrastructure.Repository\obj\Debug\net8.0\ref\ParlemValencia.Infrastructure.Repository.dll

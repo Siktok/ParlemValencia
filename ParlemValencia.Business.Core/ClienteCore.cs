@@ -4,7 +4,7 @@ using ParlemValencia.Infrastructure.Interfaces;
 
 namespace ParlemValencia.Business.Core
 {
-    public class ClienteCore : IClienteInterface
+    public class ClienteCore : IClienteCore
     {
 
         private readonly IRepositoryClientes _repositoryClientes;

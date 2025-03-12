@@ -1,0 +1,15 @@
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\bin\Debug\net8.0\ParlemValencia.Business.Interfaces.deps.json
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\bin\Debug\net8.0\ParlemValencia.Business.Interfaces.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\bin\Debug\net8.0\ParlemValencia.Business.Interfaces.pdb
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\bin\Debug\net8.0\ParlemValencia.Business.Entity.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\bin\Debug\net8.0\ParlemValencia.Business.Entity.pdb
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\obj\Debug\net8.0\ParlemValencia.Business.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\obj\Debug\net8.0\ParlemValencia.Business.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\obj\Debug\net8.0\ParlemValencia.Business.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\obj\Debug\net8.0\ParlemValencia.Business.Interfaces.AssemblyInfo.cs
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\obj\Debug\net8.0\ParlemValencia.Business.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\obj\Debug\net8.0\ParlemVa.275AC8BD.Up2Date
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\obj\Debug\net8.0\ParlemValencia.Business.Interfaces.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\obj\Debug\net8.0\refint\ParlemValencia.Business.Interfaces.dll
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\obj\Debug\net8.0\ParlemValencia.Business.Interfaces.pdb
+C:\Users\Azael\Desktop\ProyectosVisual\ParlemValencia\ParlemValencia.Business.Interfaces\obj\Debug\net8.0\ref\ParlemValencia.Business.Interfaces.dll

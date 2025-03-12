@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "ParlemValencia.Services.WebApi.Controllers.ClientesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Clientes/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParlemValencia.Services.WebApi.Controllers.ClientesController",
+    "Method": "Insert",
+    "RelativePath": "api/Clientes/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

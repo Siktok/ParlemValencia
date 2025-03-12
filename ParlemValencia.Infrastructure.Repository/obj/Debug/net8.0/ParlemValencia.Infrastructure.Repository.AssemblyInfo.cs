@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParlemValencia.Infrastructure.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53a6da8c377ff9141dad24b4fe6669ecb1696621")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e81b0e6dd7c3af090ad6ebaab1f4e6c3609f1468")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParlemValencia.Infrastructure.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParlemValencia.Infrastructure.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

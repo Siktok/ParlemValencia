@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UWTjXfSmuFTiDO2S0uslQ1xUzJ4F0oY1//07GpfTckU=",
+  "Source": "ParlemValencia.Services.WebApi",
+  "BasePath": "_content/ParlemValencia.Services.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

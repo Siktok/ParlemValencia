@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="7.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="7.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="7.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ParlemValencia.Business.Core\ParlemValencia.Business.Core.csproj" />
+    <ProjectReference Include="..\ParlemValencia.Business.Interfaces\ParlemValencia.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\ParlemValencia.Infrastructure.Interfaces\ParlemValencia.Infrastructure.Interfaces.csproj" />
+    <ProjectReference Include="..\ParlemValencia.Infrastructure.Repository\ParlemValencia.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
