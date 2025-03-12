@@ -14,4 +14,3 @@ Implementa características como:
 - Patrón de diseño por capas (DDD)
 - Documentación de la API: Swagger.
 - Inyección de dependencias.
-
